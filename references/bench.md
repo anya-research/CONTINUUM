@@ -101,7 +101,7 @@ in every scenario.
 <!-- BENCH:START -->
 ### Latest nightly results (real runs, no invented numbers)
 
-Generated: 2026-09-19T05:15:54.083547  Horizon scenarios: 5  Passed: 3  Failed: 2
+Generated: 2026-09-20T05:16:29.377494  Horizon scenarios: 5  Passed: 3  Failed: 2
 
 Accuracy: 0.6  Unnecessary escalation: 0.2  Repair precision: 0.8  Duplicate side effects: 0  Duplicate work: 0.0  Compression: 0.139
 
